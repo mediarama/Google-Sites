@@ -44,6 +44,12 @@ And click update
 
 Now you can choose your own images to replace the ones that are there.
 
+Just click on an image in the template and options will apppear.
+
+Use the commenting gudlines within caleb.html to see what the image sizes should be.
+
+You can also just click the headings and text and change it to what you want.
+
 
 
 
