@@ -1,6 +1,10 @@
 Google-Sites
 ============
 
+Up the top you can see some files, once you have read this then the file to use will be caleb.html
+
+Lets begin...
+
 Basic Info On Using html to set up a simple google site.
 
 These steps are assuming you know how to get into your own google sites account.
